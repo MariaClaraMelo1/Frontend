@@ -1,0 +1,39 @@
+<! HTML DOCTYPE>
+<html lang="pt-br">
+    <!-- 3 Maneiras de Usar CSS - Inline - Interno - Externo -->
+<cabeça>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=borda">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <título>APRENDENDO CSS</título>
+    <!-- <estilo>
+        p {
+ cor: vermelho;
+        }
+        h1 {
+ cor de fundo: aqua;
+        }
+ </estilo> -->
+</cabeça>
+<corpo>
+    <!-- Estilo INLINE -> MAIOR ESPECIFICIDADE -->
+    <h1 style="cor: amarelo; cor de fundo: azul-violeta;" > Meu Primeiro CSS</h1>
+    <p>Estilizado via CSS interno</p>
+    <p>Estilizado via CSS interno</p>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <p>Estilizado via CSS interno</p>
+    
+    <div class="primeira-classe">
+        <h1>NÃO ESTÁ DENTRO DA DIV</h1>
+    </Div>
+    
+    <div class="primeira-classe">
+        <h1 id="primero-id">ESTILIZA APENAS ESTA DIV</h1>
+    </Div>
+
+</corpo>
+</.html>

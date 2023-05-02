@@ -1,0 +1,23 @@
+<! HTML DOCTYPE>
+<html lang="pt-br">
+<cabeça>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=borda">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML SEMÂNTICO</title>
+</cabeça>
+<corpo>
+    <cabeçalho>
+        <a href="http://www.nasa.gov" target="_blank"><img src="./assets/images/ilustracao-cosmonauta.jpg" alt="Ilustração de um cosmonauta" width="300px" height="400px"></a>
+    </cabeçalho>
+    <nav>Navegação do Site</nav>
+    <main>Conteúdo Principal
+        <secção>
+            <header><h2>Título da notícia</h2></header>
+            <Artigo><p>Notícia</p></artigo>
+        </secção>
+        <aparte>"BANNER DE ANÚNCIO"</aparte>
+    </principal>
+    <rodapé>RODAPÉ</rodapé>
+</corpo>
+</.html>

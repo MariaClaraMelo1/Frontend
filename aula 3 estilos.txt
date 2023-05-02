@@ -1,0 +1,69 @@
+corpo {
+    Margem: 0;
+}
+
+h1 {
+    borda: marrom sólido de 15px;
+    cor de fundo: água-marinha;
+    preenchimento: 10px;
+    alinhamento de texto: centro;
+    margem: 0 auto;
+    largura: 150px;
+    altura: auto;
+}
+
+. Div-1 {
+    cor de fundo: preto;
+    Altura: 150px;
+    Largura máxima: 600px;
+    Largura mínima: 300px;
+    largura: 80%;
+    margem: 0 auto;
+}
+
+. quadrados {
+    cor de fundo: rgb(223, 133, 24);
+    Altura: 200px;
+    largura: 200px;
+    margem-fundo: 10px;
+}
+
+
+. posição fixa {
+    cor de fundo: verde;
+    raio de borda: 250px;
+    posição: fixa;
+    fundo: 5%;
+    Direita: 5%;
+    Altura: 100px;
+    largura: 100px;
+} 
+
+. posição pegajosa {
+    cor de fundo: azul;
+    largura: 100%;
+    Altura: 75px;
+    posição: pegajoso;
+    topo: 0;
+    cor: branco;
+    alinhamento de texto: centro;
+    tamanho da fonte: 20px;
+}
+
+. posição-relativa {
+    posição: relativa;
+    largura: 300px;
+    Altura: 300px;
+    esquerda: 15px;
+    topo: -30px;
+}
+
+. posição-absoluta {
+    largura: 100px;
+    Altura: 100px;
+    cor de fundo: violeta azul;
+    posição: absoluta;
+    parte inferior: 0;
+    direita: 0;
+
+}

@@ -1,0 +1,21 @@
+<! HTML DOCTYPE>
+<html lang="pt-BR">
+
+<cabeça>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=borda">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <título>Contato</título>
+</cabeça>
+<!-- Adicionei comentário para subir no github pelo vscode -->
+<corpo>
+    <h1>CONTATO</h1>
+    <Div>
+        <p>Mussum Ipsum, cacilds vidis <a href="#">litro abertis</a>. Mauris nec dolor in eros commodo tempor. </p>
+        <div></div>
+        <div></div>
+        <div></div>
+    </Div>
+</corpo>
+
+</.html>

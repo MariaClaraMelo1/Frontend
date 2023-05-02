@@ -1,0 +1,87 @@
+h1 {
+    Cor: RGB (112, 4, 4 );
+}
+
+/*SM*/
+@media( min-largura: 576px ){
+    h1 {
+        cor: rgb (212, 180, 22);
+    }
+}
+
+/*MD*/
+@media( min-largura: 768px ){
+    h1 {
+        cor: rgb (52, 143, 10);
+    }
+}
+
+/*LG*/
+@media( min-largura: 992px ){
+    h1 {
+        cor: rgb (7, 96, 88);
+    }
+}
+
+. meu-botão {
+    cor de fundo: água-marinha;
+    cor: marrom;
+    margem-fundo: 40px;
+}
+
+/* Explicação dos .container e .container-fluid */
+/* .container, .container-fluid {
+ cor de fundo: preto;
+ cor: branco;
+ tamanho da fonte: 20px;
+ peso da fonte: 700;
+ preenchimento: 15px;
+ margem-fundo: 20px;
+} */
+
+. recipiente {
+    borda: 5px pontilhada azul;
+    preenchimento: 10px;
+}
+
+. remar {
+    borda: roxo sólido de 5px;
+    Margem: 0;
+    preenchimento: 10px;
+}
+
+. col, . col-3, . col-8, . Col-5, . Col-2 {
+    borda: 2px tracejado vermelho;
+}
+
+. Display-Flex {
+    Display: Flex;
+    Altura: 200px;
+    largura: 100%;
+    cor de fundo: Lightslategray;
+    margem-topo: 30px;
+    justificar-conteúdo: espaço-ao redor;
+    alinhar-itens: centro;
+}
+
+. minha-div {
+    Altura: 100px;
+    largura: 200px;
+    cor de fundo: biscoito;
+    borda: 1px azul sólido;
+    alinhamento de texto: centro;
+    tamanho da fonte: 30px;
+}
+
+. eu {
+    alinhar-se: flex-end;
+}
+
+#minha-linha {
+    Altura: 150px;
+}
+
+#minha-linha . Col-3 {
+    cor de fundo: biscoito;
+    Altura: 50px;
+}

@@ -1,0 +1,27 @@
+corpo {
+    imagem de fundo: url(.. /imagens/ilustração-cosmonauta.jpg);
+    tamanho do fundo: capa;
+    fundo-repetição: não-repetição;
+}
+p {
+    cor: branco;
+    cor de fundo: rgba (0, 0, 0,  0.596);
+    alinhamento de texto: centro;
+    cor da borda: água;
+    tamanho da fonte: 20px;
+    família de fontes: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Genebra, Verdana, sans-serif;
+}
+
+div h1 {
+   cor: marrom;
+   cor de fundo: branco;
+}
+
+. primeira-classe h1{
+    cor: branco;
+    cor de fundo: marrom;
+}
+
+#primero-id {
+    tamanho da fonte: 16px;
+}

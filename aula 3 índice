@@ -1,0 +1,35 @@
+<! HTML DOCTYPE>
+<html lang="pt-br">
+<cabeça>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=borda">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="folha de estilo" href="./css/styles.css">
+    <título>Exibições</título>
+</cabeça>
+<corpo>
+    <h1>Margem e Preenchimento</h1>
+    <RH />
+
+    <div class="div-1"></div >
+    <RH />
+
+    <div class="quadrados posição-estática">
+        <EXTENSÃO>POSIÇÃO STATIC</span>
+    </Div>
+
+    <div class="quadrados posição fixa">
+    </Div>
+    
+    <div class="quadrados position-sticky">
+        <h3>POSIÇÃO PEGAJOSA</h3>
+    </Div>
+
+    <div class="quadrados posição-relativa">
+        <h3>POSIÇÃO Relativa</h3>
+        <div class="posição-absoluta"></div>
+    </Div>
+    <!-- <div class="quadrados display-inline"></div> -->
+    <div style="altura: 100000px; largura: 100%;" ></div>
+</corpo>
+</.html>
