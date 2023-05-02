@@ -8,8 +8,8 @@
 <título>Exbições</título>
 </cabeça>
 <corpo>
-    <h1>margem e Preenchimento</h1>
-    <RH />
+    <h1>margem e Preenchimento</>
+    <RH/>
 
     <i class="bi bi-circle-fill"></i>
     ></Unicode:U+F287>
@@ -33,26 +33,26 @@
     <div class="div-1"></div >
         <RH />
 
-        <div class="quadrados posição-estática">
+        <div class="retângulos posição-estática">
             <EXTENSÃO>POSIÇÃO STATIC</span>
         </Div>
       
         <div class="div-1></div" >
         </Div>
 
-        <div class="quadrados posição fixa">
+        <div class="retângulos posição fixa">
         </Div>
 
        </Div="altura">
        </Div="largura">
-        <div class="quadrados posição-absoluta">
+        <div class="retângulos posição-absoluta">
         <div style="altura:10000px; largura:70%;"></div>
         
-        <div class="quadrados posição-absoluta">
+        <div class="retângulos posição-absoluta">
         </Div>
         <div style="altura: 10000px; largura: 15%;" ></div>
 
-        <div class="quadrados posição-absoluta">
+        <div class="retângulos posição-absoluta">
         </Div>
         <div style="altura; 10000px; largura: 15%;"></div>
         </corpo>
